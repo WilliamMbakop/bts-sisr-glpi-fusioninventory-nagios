@@ -498,3 +498,7 @@ Toutes les VMs devraient s'afficher.
 ![Fichier commands.cfg](images/img22.png)
 
 Dans la capture d'écran ci-dessous, les VMs qui sont eteintes sont en status Down
+
+Lorsque toutes les machines sont allumées, elles sont en statut UP
+
+![Fichier commands.cfg](images/img22bis.png)
